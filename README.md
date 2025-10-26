@@ -1,8 +1,14 @@
-## Personal-AI-Agent
+## General-Purpose AI desktop client
 
-In non-technical language, this is personalized chat gpt that lives on your computer. It can help you with anything on your computer you allow it to access.
+The purpose of this project is so that the user can extend the functionality of a given desktop tool with the ai
+client. The latest snapshot shows the AI’s intuitive interaction with the system calendar tool. Take calendar as an
+example of the accessed tool by the client. When you access the calendar through the client, you can extend the
+features of the standalone calendar tool to your imagination. As an example of extending the core features, I could
+prompt the AI to use system calendar as its data source and make a timetable for piano lessons and paste that into
+an excel spreadsheet. Using reasoning and critical thinking, the AI will accomplish the task. I believe students,
+teachers and employees may share a benefit from the desktop AI-client
 
-Using the generated api key in Google Studio, I have built a personal early stage system, that I will be using for my personal needs. As this will be my only use for it right now, I allowed it to access calendar, so it can nudge me about an upcoming event.
+
 
 
 #### Screenshots
