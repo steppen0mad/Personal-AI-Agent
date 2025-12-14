@@ -1,6 +1,6 @@
 # General-Purpose AI Desktop Client
 
-Lets users extend the functionality of a given local app by allowing them to access the app through the client where the user can express ideas through prompting.
+Lets users extend the functionality of a given local app by allowing them to access the app through the client where the user can express ideas through prompt.
 
 ---
 
